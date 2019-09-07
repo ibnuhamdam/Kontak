@@ -116,6 +116,31 @@ body {
     .barang {
         margin: 20px 8px
     }
+    /* Detail */
+
+    .detail {
+        padding-top: 20%;
+        background-color: #293F76;
+        height: 736px;
+    }
+    .detail p {
+        color: rgb(185, 185, 185);
+        line-height: 12pt;
+        font-size: 13px;
+    }
+    .detail-img {
+        
+        border-radius: 40px;
+        background-color: white;
+        height: 250px;
+    }
+    .preview {
+        border-radius: 40px;
+        background-color: #EAD1A2;
+        height: 300px;
+    }
+
+    /* End Detail */
   }
 
  /* Medium devices (tablets, 768px and up) */
